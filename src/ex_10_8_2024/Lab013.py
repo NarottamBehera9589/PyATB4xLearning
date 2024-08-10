@@ -3,6 +3,6 @@ print(a, b, c, sep="_")
 
 # git status
 # git add --all
-# git commit -m
-#git push
+# git commit -m "Add all codes"
+# git push
 
